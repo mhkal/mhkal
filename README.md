@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhkal
-- 👀 I’m interested in learing C# Developement, ASP.Net, MVC, Blazor and MAUI
-- 🌱 I’m currently learning ASP.Net and MVC
+- 👀 I’m interested in mastering C# and Unity Game Development
+- 🌱 I’m currently learning Blazor
 - 💞️ I’m looking to collaborate on nothing for now
 
 <!---
